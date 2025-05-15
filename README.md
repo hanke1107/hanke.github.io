@@ -18,7 +18,7 @@
  - 4.Python
 
 ## 爬蟲網站
-![image](https://github.com/hanke1107/hanke.github.io/blob/596d9fc39869d012002640ca3dc736c7c7d4c98f/assets/img/0515-3.png)
+![image](assets/img/0515-3.png)
 
 ## 作者
 - 劉翰宇，靜宜大學 大學部資科系學生
